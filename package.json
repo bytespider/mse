@@ -19,7 +19,11 @@
     "statistics",
     "average"
   ],
-  "author": "Rob Griffiths",
+  "author": {
+    "name": "Rob Griffiths",
+    "email": "rob@bytespider.eu",
+    "url": "http://bytespider.eu"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bytespider/mse/issues"
